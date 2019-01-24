@@ -1,43 +1,7 @@
 .dan
 {
-    background-color: red;
+    text-align: center;
+    font-size: 2em;
+    color : blueviolet;
+    font-weight:bold; 
 }
-
-#dan1
-{
-    background-color: red;
-}
-#dan2
-{
-	background-color:green;
-}
-#dan3
-{
-	background-color:blue;
-}
-#dan4
-{
-	background-color:blueviolet
-}
-#dan5
-{
-	background-color:gold;
-}
-#dan6
-{
-	background-color:aqua;
-}
-#dan7
-{
-	background-color:indianred;
-}
-#dan8
-{
-	background-color:darkolivegreen;
-}
-#dan9
-{
-	background-color:darkorchid
-}
-
-
